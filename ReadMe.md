@@ -1,7 +1,7 @@
 # Kubernetes
 In this repository I do learn Kubernetes. Sections I am going to follow,
 
-## [Kubectl](#Kubectl)
+# [Kubectl](#Kubectl)
 a  
 b  
 c  
